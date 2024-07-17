@@ -4,4 +4,5 @@ Educador: Diego Fernandes (CTO @Rocketseat)
 
 <p>Conteúdos trabalhados no treinamento: Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceitos de Propriedades,
 Estados e Componentes,tipagem com Typescript,tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, picker de calendário.</p>
+
 ![Wallpaper - 1920x1080](https://github.com/user-attachments/assets/37049912-ec8b-4bd1-96f7-5eb9957ce623)
